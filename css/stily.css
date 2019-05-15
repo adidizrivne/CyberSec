@@ -1,0 +1,99 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color:#1f252a;
+	max-width: 100%;
+	width: 100%;
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.costily{
+	height: 130px;
+	width: 100%;
+	background-color: #343d46;
+}
+
+#menu {
+	background-color: #fff;
+	display: block;
+	float: right;
+	padding-right: 60px;
+	top: 50%;
+    margin-top: -60px;
+
+}
+
+
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+h1{
+	padding: 20px;
+	text-align: left;
+	font-size: 2em;
+	text-indent: 20px;
+	color: #fff;
+	font-family: calibri;
+	padding: 20px 0px 0px 0px;
+	white-space: pre-wrap;
+}
+h2{
+	text-align: left;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: #fff;
+	font-family: calibri;
+	white-space: pre-wrap;
+}
+
+.content{
+	width: 90%;
+	background-color: rgba(94,94,94,.40);
+	margin: 0 auto;
+	padding: 9px;
+}
+.footer{
+	background-color: #121619;
+	width: 100%;
+	height: 120px;
+	float: center;
+	color: #fff;
+	font-size: 1.2em;
+	text-align: center;
+	font-family: calibri; 
+}
+p{
+	font-family: arial;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
+li{
+	font-family: arial;
+	color: #fff;
+	font-size: 1.3em;
+	margin: 15px;
+	padding: 10px;
+}
+h3{
+	font-family: arial;
+	font-size: 2em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
+.container-testing h3{
+	font-family: arial;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
