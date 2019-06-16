@@ -1,0 +1,53 @@
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+h1{
+	padding: 20px;
+	text-align: left;
+	font-size: 2em;
+	text-indent: 20px;
+	color: #fff;
+	font-family: calibri;
+	padding: 20px 0px 0px 0px;
+	white-space: pre-wrap;
+}
+h2{
+	text-align: left;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: #fff;
+	font-family: calibri;
+	white-space: pre-wrap;
+}
+
+p{
+	font-family: arial;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
+.content li{
+	font-family: arial;
+	color: #fff;
+	font-size: 1.3em;
+	margin: 15px;
+	padding: 10px;
+}
+h3{
+	font-family: arial;
+	font-size: 2em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
+.container-testing h3{
+	font-family: arial;
+	font-size: 1.5em;
+	text-indent: 20px;
+	color: white;
+	white-space: pre-wrap;
+}
